@@ -1,0 +1,122 @@
+{
+    "music_disc.an_dreoilin": {
+        "sounds": [
+            {
+                "name": "uloncl:records/an_dreoilin_mono"
+            }
+        ]
+    },
+    "music_disc.arbys_ytp": {
+        "sounds": [
+            {
+                "name": "uloncl:records/arbys_ytp"
+            }
+        ]
+    },
+    "music_disc.caramell_dansen": {
+        "sounds": [
+            {
+                "name": "uloncl:records/caramell_dansen"
+            }
+        ]
+    },
+    "music_disc.coconut_mall": {
+        "sounds": [
+            {
+                "name": "uloncl:records/coconut_mall"
+            }
+        ]
+    },
+    "music_disc.epic_sax_song": {
+        "sounds": [
+            {
+                "name": "uloncl:records/epic_sax_song"
+            }
+        ]
+    },
+    "music_disc.gas_gas_gas": {
+        "sounds": [
+            {
+                "name": "uloncl:records/gas_gas_gas"
+            }
+        ]
+    },
+    "music_disc.hit_it_joe": {
+        "sounds": [
+            {
+                "name": "uloncl:records/hit_it_joe"
+            }
+        ]
+    },
+    "music_disc.hobbits_to_isengard": {
+        "sounds": [
+            {
+                "name": "uloncl:records/hobbits_to_isengard"
+            }
+        ]
+    },
+    "music_disc.kitchen_gun": {
+        "sounds": [
+            {
+                "name": "uloncl:records/kitchen_gun"
+            }
+        ]
+    },
+    "music_disc.megalovania": {
+        "sounds": [
+            {
+                "name": "uloncl:records/megalovania"
+            }
+        ]
+    },
+    "music_disc.pump_up_the_jam": {
+        "sounds": [
+            {
+                "name": "uloncl:records/pump_up_the_jam"
+            }
+        ]
+    },
+    "music_disc.ronald_mcdonald_insanity": {
+        "sounds": [
+            {
+                "name": "uloncl:records/ronald_mcdonald_insanity"
+            }
+        ]
+    },
+    "music_disc.running_in_the_90s": {
+        "sounds": [
+            {
+                "name": "uloncl:records/running_in_the_90s"
+            }
+        ]
+    },
+    "music_disc.sip_the_lipton": {
+        "sounds": [
+            {
+                "name": "uloncl:records/sip_the_lipton"
+            }
+        ]
+    },
+    "music_disc.take_me_to_snurch": {
+        "sounds": [
+            {
+                "name": "uloncl:records/take_me_to_snurch"
+            }
+        ]
+    },
+    "music_disc.the_soup_store": {
+        "sounds": [
+            {
+                "name": "uloncl:records/the_soup_store"
+            }
+        ]
+    },
+    "music_disc.toad_sings_chug_jug": {
+        "sounds": [
+            {
+                "name": "uloncl:records/toad_sings_chug_jug"
+            }
+        ]
+    }
+}
+
